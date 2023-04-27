@@ -4,7 +4,7 @@
 
 ## Description:
 
-This project is to use a API call using fecth
+The goal of this project is to leverage an API by making a fetch call in order to retrieve data and integrate it into an application or system. The use of the fetch API allows for efficient and reliable data retrieval, which can be critical to the success of a project. By utilizing this technology, developers can enhance the functionality and capabilities of their applications, enabling them to deliver a better user experience and meet the needs of their users.
 
 ## Table of Contents
 
