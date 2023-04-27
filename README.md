@@ -17,6 +17,8 @@ This project is to use a API call using fecth
 
 You can visit my portfolio clicking the link:
 
+https://felisbertotati.github.io/quote-generator/
+
 ![image](https://github.com/felisbertotati/quote-generator/blob/main/Assets/images/screenshote.png?raw=true)
 
 ## License
