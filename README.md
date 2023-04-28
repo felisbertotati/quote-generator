@@ -9,9 +9,16 @@ The goal of this project is to leverage an API by making a fetch call in order t
 ## Table of Contents
 
 - [Description](#description)
+- [Technologies](#technologies)
 - [Usage](#usage)
 - [Contribution](#contribution)
 - [Additional Info](#github)
+
+## Technologies
+
+- Javascript
+- Html
+- CSS
 
 ## Usage
 
